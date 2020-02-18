@@ -1,0 +1,2 @@
+
+SELECT * FROM viande LIMIT 50;
